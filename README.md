@@ -1,7 +1,7 @@
 # AIA-Project2
 Time series analysis for price recommendation in the telecommunications market
 
-<a href=”https://www.linkedin.com/in/gon%C3%A7alo-freitas-808174247/"><img align="left" src="https://raw.githubusercontent.com/gjfreitas/gjfreitas/main/images/linkedin.svg" alt="Gonçalo Freitas | LinkedIn" width="21px"/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
