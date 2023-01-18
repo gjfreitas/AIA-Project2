@@ -1,10 +1,9 @@
 # AIA-Project2
 Time series analysis for price recommendation in the telecommunications market
 
-![https://www.linkedin.com/in/gon%C3%A7alo-freitas-808174247/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 My LinkedIn:
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/gon%C3%A7alo-freitas-808174247/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 
 For this project we used:
