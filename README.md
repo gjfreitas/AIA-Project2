@@ -1,9 +1,7 @@
 # AIA-Project2
 Time series analysis for price recommendation in the telecommunications market
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/gon%C3%A7alo-freitas-808174247/
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+Made by: Gonçalo Freitas & André Fernandes, University of Aveiro
 
 For this project we used:
 
